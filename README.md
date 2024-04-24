@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm a passionate machine learning engineer with a background in data science. I thrive on solving complex problems using cutting-edge algorithms and technologies. My goal is to leverage data-driven insights to drive business growth and innovation.
 
 ### Education
-- Master of Science in Computer Science, University of Science - VNUHCM, Expected Graduation in 2025
+- Bachelor of Science in Computer Science, University of Science - VNUHCM, Expected Graduation in 2025
 
 ### Skills
 - Machine Learning: Deep Learning, Natural Language Processing

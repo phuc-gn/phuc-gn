@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Gia-Phuc Nguyen
-## Machine Learning Engineer | Data Scientist
+## Machine Learning / AI Engineer | Data Scientist
 
 ### About Me
 I'm a passionate machine learning engineer with a background in data science. I thrive on solving complex problems using cutting-edge algorithms and technologies. My goal is to leverage data-driven insights to drive business growth and innovation.

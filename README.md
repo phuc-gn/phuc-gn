@@ -25,7 +25,7 @@ I'm a passionate machine learning engineer with a background in data science. I 
 - Bachelor of Science in Computer Science, University of Science - VNUHCM, Expected Graduation in 2025
 
 ### Skills
-- Machine Learning: Deep Learning, Natural Language Processing
+- Machine Learning: Deep Learning
 - Programming Languages: C/C++, Python, Julia
 - Frameworks & Libraries: PyTorch, Scikit-learn
 - Data Manipulation & Visualization: Pandas, Polars, Matplotlib, Seaborn

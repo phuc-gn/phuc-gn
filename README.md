@@ -19,13 +19,12 @@ Here are some ideas to get you started:
 ## Machine Learning / AI Engineer | Data Scientist
 
 ### About Me
-I'm a passionate machine learning engineer with a background in data science. I thrive on solving complex problems using cutting-edge algorithms and technologies. My goal is to leverage data-driven insights to drive business growth and innovation.
+I'm a passionate machine learning engineer with a background in data science. Constantly learning and exploring new technologies in Machine Learning, Artificial Intelligence, and Data Science, especially in Natural Language Processing (NLP) and Large Language Models (LLM).
 
 ### Education
 - Bachelor of Science in Computer Science, University of Science - VNUHCM, Expected Graduation in 2025
 
 ### Skills
-- Machine Learning: Deep Learning
 - Programming Languages: C/C++, Python, Julia
 - Frameworks & Libraries: PyTorch, Scikit-learn
 - Data Manipulation & Visualization: Pandas, Polars, Matplotlib, Seaborn

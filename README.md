@@ -50,5 +50,5 @@ I'm a passionate machine learning engineer with a background in data science. Co
 - Microsoft Certified: Azure Data Scientist Associate -->
 
 ### Contact Me
-- [LinkedIn](https://www.linkedin.com/in/phuc-nguyen-8b8b672a2/)
+- [LinkedIn](https://www.linkedin.com/in/giaphucnguyen)
 <!-- - Email: johndoe@example.com -->

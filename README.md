@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Gia-Phuc Nguyen
-## AI/ML Engineer | Data Scientist
+## AI/ML Engineer
 
 ### About Me
 I'm a passionate machine learning engineer with a background in data science. Constantly learning and exploring new technologies in Machine Learning, Artificial Intelligence, and Data Science, especially in Natural Language Processing (NLP) and Large Language Models (LLM).
@@ -26,23 +26,9 @@ I'm a passionate machine learning engineer with a background in data science. Co
 
 ### Skills
 - Programming Languages: C/C++, Python, Julia
-- Frameworks & Libraries: PyTorch, Scikit-learn
+- Frameworks & Libraries: PyTorch, Scikit-learn, NLTK, Hugging Face, MLflow, Docker.
 - Data Manipulation & Visualization: Pandas, Polars, Matplotlib, Seaborn
 - Big Data Technologies: Spark, Hadoop
-<!-- - Cloud Platforms: AWS, Azure, Google Cloud Platform -->
-
-<!-- ### Projects
-#### Image Recognition using Convolutional Neural Networks
-- Developed a deep learning model for image recognition using CNNs and achieved an accuracy of 95% on the CIFAR-10 dataset.
-- Implemented data augmentation techniques to improve model generalization and robustness.
-
-#### Sentiment Analysis of Twitter Data
-- Built a sentiment analysis pipeline to analyze tweets using NLP techniques.
-- Deployed the model on AWS Lambda for real-time analysis of streaming Twitter data.
-
-#### Predictive Maintenance for Manufacturing
-- Developed a predictive maintenance solution for a manufacturing plant using machine learning.
-- Reduced downtime by 30% by predicting equipment failures before they occur. -->
 
 <!-- ### Certifications
 - AWS Certified Machine Learning - Specialty

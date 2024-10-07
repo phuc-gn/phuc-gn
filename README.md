@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Gia-Phuc Nguyen
-<!-- ## AI/ML Engineer -->
+<!-- # Gia-Phuc Nguyen
+## AI/ML Engineer -->
 
 ### About Me
 I am interested in probabilistic machine learning, currently expanding expertise in natural language processing and computer vision.

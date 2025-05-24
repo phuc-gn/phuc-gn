@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ## AI/ML Engineer -->
 
 ### About Me
-I am interested in probabilistic machine learning, currently expanding expertise in natural language processing and computer vision.
+I am interested in machine learning, currently expanding expertise in natural language processing and computer vision.
 
 ### Education
-- Bachelor of Science in Computer Science, University of Science - VNUHCM, Expected Graduation in Sepember 2025
+- Bachelor of Science in Computer Science, University of Science - VNUHCM, Expected Graduation in September 2025
 
 <!-- ### Skills
 - Programming Languages: C/C++, Python, Julia
